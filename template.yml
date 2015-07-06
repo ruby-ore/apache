@@ -1,2 +1,3 @@
 variables:
   license: Apache
+  license_file: LICENSE.txt
